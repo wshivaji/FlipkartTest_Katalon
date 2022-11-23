@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer Ratings__24_Dny</name>
+   <tag></tag>
+   <elementGuidId>e95bb27e-e32e-448d-9c6e-4e75051e1211</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label._2iDkf8.t0pPfW > div._24_Dny</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div/div/div/div/section[5]/div[2]/div/div/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77b468eb-9443-43db-9326-bb5d0c87f2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_24_Dny</value>
+      <webElementGuid>1cfb156c-069a-4583-a09c-eee9505836de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_36fx1h _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-2-12&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-12-12&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_1KOcBL&quot;]/section[@class=&quot;_167Mu3 _2hbLCH&quot;]/div[@class=&quot;_3FPh42&quot;]/div[@class=&quot;_2d0we9&quot;]/div[@class=&quot;_4921Z t0pPfW&quot;]/div[@class=&quot;_1Y4Vhm _4FO7b6&quot;]/label[@class=&quot;_2iDkf8 t0pPfW&quot;]/div[@class=&quot;_24_Dny&quot;]</value>
+      <webElementGuid>62a5495d-bead-48f1-a34c-1c4fc2756466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div/div/div/div/section[5]/div[2]/div/div/div/label/div</value>
+      <webElementGuid>1d52c042-3777-4a00-b520-0000cecae49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/label/div</value>
+      <webElementGuid>833fb548-3f98-4a25-a5ab-e3f2a8e54057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

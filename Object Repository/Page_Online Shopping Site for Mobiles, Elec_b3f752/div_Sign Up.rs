@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign Up</name>
+   <tag></tag>
+   <elementGuidId>454c5e5f-6b37-46ee-bdf0-fbecd295855a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._3wJI0x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div[2]/div[3]/div/div/div[2]/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcc0b56d-396d-4fb1-822a-5d09cae7c483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3wJI0x</value>
+      <webElementGuid>b9989619-005c-42b9-ad25-87110b18bd46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>2ff838af-39b1-41c5-ad13-6396640f3631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1kfTjk&quot;]/div[@class=&quot;_1rH5Jn&quot;]/div[@class=&quot;_2Xfa2_&quot;]/div[@class=&quot;go_DOp _2errNR&quot;]/div[@class=&quot;_28p97w&quot;]/div[@class=&quot;_1psGvi _3BvnxG&quot;]/div[@class=&quot;ZEl_b_ _1J9ow0 _2ogGYG _23xUYh _3pAV4E&quot;]/div[@class=&quot;_3_Fivj&quot;]/div[@class=&quot;_1bQ5Pp&quot;]/div[@class=&quot;_6uPgrs&quot;]/div[@class=&quot;_32Nmy9&quot;]/div[@class=&quot;_3wJI0x&quot;]</value>
+      <webElementGuid>523784bc-3e72-4bf7-bc55-565a4756e540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div[2]/div[3]/div/div/div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>f74eccb6-772e-4971-8c32-8a7881db8bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[8]</value>
+      <webElementGuid>4e62d36e-dc49-4575-a8b5-6b0326462fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/preceding::div[1]</value>
+      <webElementGuid>d83c29f5-3884-48bc-a038-396cb7bc0e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flipkart Plus Zone'])[1]/preceding::div[2]</value>
+      <webElementGuid>57ef67a2-9caa-4d82-9a01-4a6098d24997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Up']/parent::*</value>
+      <webElementGuid>0d0a2c12-654e-4482-921a-784d5d86c2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d15d0047-376b-41fb-bfb2-2cb7446d4d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign Up' or . = 'Sign Up')]</value>
+      <webElementGuid>a1b0eb4d-3c2f-4da9-a452-4fcbd712a9c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
