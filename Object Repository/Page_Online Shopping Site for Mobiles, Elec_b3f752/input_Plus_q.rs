@@ -6,16 +6,80 @@
    <elementGuidId>82b33a0f-09f0-4798-9d62-653f403ee67a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;q&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='q']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;q&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c596d780-5bb1-4672-9dd8-d7aae08bd8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3704LK</value>
+      <webElementGuid>915a3bf9-142a-411f-a424-e46ee26c7c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c1e36128-43e2-4af4-8a03-b2fdbee204f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Search for products, brands and more</value>
+      <webElementGuid>a2355222-09e7-443f-890e-a6a76158fd26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>q</value>
+      <webElementGuid>46ed12e1-4fe5-47e4-801b-9b10e3f9245e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>0e867a0c-42b3-425d-a910-7a41a53d7e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search for products, brands and more</value>
+      <webElementGuid>0eb0df46-aa24-4f46-a177-48f710bae7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1kfTjk&quot;]/div[@class=&quot;_1rH5Jn&quot;]/div[@class=&quot;_2Xfa2_&quot;]/div[@class=&quot;_1cmsER&quot;]/form[@class=&quot;_2M8cLY header-form-search&quot;]/div[@class=&quot;col-12-12 _2oO9oE&quot;]/div[@class=&quot;_3OO5Xc&quot;]/input[@class=&quot;_3704LK&quot;]</value>
+      <webElementGuid>5705bafb-99b3-448c-accd-9de228e8ce09</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +97,7 @@
       <webElementGuid>0ad4fb8a-6de7-4244-a9cd-a1b5361b5dc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +105,7 @@
       <webElementGuid>dce00db6-87a7-4eaf-a543-261dc42916cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
@@ -49,7 +113,7 @@
       <webElementGuid>f2732790-9fae-44c9-9619-ece5b99a1d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -65,7 +129,7 @@
       <webElementGuid>caf50838-7f01-4d79-b8c0-3d56d89b778d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -86,7 +150,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='q']</value>
-      <webElementGuid>160e774a-74eb-4112-9afa-1605d363b29a</webElementGuid>
+      <webElementGuid>749771c3-f9b9-4661-a3fe-0ab3c0a08a23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +158,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='container']/div/div/div/div[2]/div[2]/form/div/div/input</value>
-      <webElementGuid>b99f090a-2e24-4e85-8cc7-420119ce2d34</webElementGuid>
+      <webElementGuid>b9ec0c07-c1cd-405c-9bf0-350d511e7e48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>641cf386-ddbc-4f94-b281-d4b830c5f23e</webElementGuid>
+      <webElementGuid>8e1ac1c7-1bc3-43d0-80a2-440f717ca9c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @title = 'Search for products, brands and more' and @name = 'q' and @placeholder = 'Search for products, brands and more']</value>
-      <webElementGuid>5613ccdf-ab0e-49fe-9bf5-ea4deba38f77</webElementGuid>
+      <webElementGuid>8ad40448-3e42-45b7-9239-3f2b68ad6fcb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

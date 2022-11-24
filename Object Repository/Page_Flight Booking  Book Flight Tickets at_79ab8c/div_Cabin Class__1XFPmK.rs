@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cabin Class__1XFPmK</name>
+   <tag></tag>
+   <elementGuidId>d5592324-0963-42b8-aa36-e960fe2ed4ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div[2]/div/div[2]/form/div/div[3]/div/div[2]/div/div/div/div/div[2]/div/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label._2Fn-Ln._2WzguY._3L7Pww > div._1XFPmK</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>883c8d9a-c46d-4698-b9a0-2fe7e00e5970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1XFPmK</value>
+      <webElementGuid>5b28c468-c66b-4eda-a68f-adbc8552a0a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_2I_P4n _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_3-tSyS _36bm8T&quot;]/div[@class=&quot;_3XCEEm&quot;]/div[@class=&quot;_1dTDqB&quot;]/div[@class=&quot;_2ffI1H&quot;]/form[@class=&quot;_1DLh40&quot;]/div[@class=&quot;_2NKqZI&quot;]/div[@class=&quot;_3OFDG8&quot;]/div[@class=&quot;_1psGvi _19UjdT&quot;]/div[@class=&quot;ZEl_b_ _2pgFiz _2ogGYG _23xUYh _3pAV4E&quot;]/div[@class=&quot;_3_Fivj&quot;]/div[1]/div[@class=&quot;_3BV5Vj&quot;]/div[@class=&quot;_2i400y&quot;]/div[@class=&quot;_1_YMe_&quot;]/div[1]/label[@class=&quot;_2Fn-Ln _2WzguY _3L7Pww&quot;]/div[@class=&quot;_1XFPmK&quot;]</value>
+      <webElementGuid>222a3708-ad2c-4ce0-9a94-e01090fd9ff7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div[2]/div/div[2]/form/div/div[3]/div/div[2]/div/div/div/div/div[2]/div/label/div</value>
+      <webElementGuid>19653d49-7157-4a58-a97c-5cea9cdee8e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/div</value>
+      <webElementGuid>597d6193-45f5-4740-9c4c-a3c5d15dc71a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

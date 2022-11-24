@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Women</name>
+   <tag></tag>
+   <elementGuidId>79f7a2e6-5eb7-4761-b098-d9293c6f8599</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span._2I9KP_._2WDRax</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eebe797f-0c98-4ec7-b1d2-f01f0056f061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2I9KP_ _2WDRax</value>
+      <webElementGuid>8bf3d7f7-d6b8-434a-9258-6c90deb6a89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Women</value>
+      <webElementGuid>afc3cd5f-798b-4cb4-aeea-be8e59f0d3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_331-kn&quot;]/div[@class=&quot;_3Il5oO dwRsDN&quot;]/div[@class=&quot;_1kidPb&quot;]/span[@class=&quot;_2I9KP_ _2WDRax&quot;]</value>
+      <webElementGuid>f06bf94a-8006-44b2-a389-4ad48915ef10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/span[4]</value>
+      <webElementGuid>44cb2c1a-d397-482d-a24b-d33b2baba002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men'])[1]/following::span[1]</value>
+      <webElementGuid>12d13a9f-3625-41e4-97fa-fa1f6e203b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TVs &amp; Appliances'])[1]/following::span[2]</value>
+      <webElementGuid>9a7e0f96-4a01-4ace-87f4-c5fa8b950209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baby &amp; Kids'])[1]/preceding::span[1]</value>
+      <webElementGuid>643fef96-6943-4676-81f5-4434492fc6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home &amp; Furniture'])[1]/preceding::span[2]</value>
+      <webElementGuid>d596cf67-7d9a-453c-b3fb-bb305af6a8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Women']/parent::*</value>
+      <webElementGuid>4adfd716-44e6-4b40-bb29-a3f5239d1e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>5b949117-3bb9-418f-9a8f-c8bc4af70036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Women' or . = 'Women')]</value>
+      <webElementGuid>1f931108-c1fb-44ce-b850-f4ac6ba049ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

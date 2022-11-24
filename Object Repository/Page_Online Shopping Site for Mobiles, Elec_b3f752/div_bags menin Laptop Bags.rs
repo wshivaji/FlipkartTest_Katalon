@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_bags menin Laptop Bags</name>
+   <tag></tag>
+   <elementGuidId>99411abf-68e7-4af6-8a18-b26d569e2b32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div[2]/div[2]/form/ul/li[3]/div/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>019b6e54-ac55-49be-afb2-e6ef88ac945f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lrtEPN _17d0yO</value>
+      <webElementGuid>bb90afd6-7096-4c79-ba74-795d8652ddc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>bags menin Laptop Bags</value>
+      <webElementGuid>253f1721-8242-455d-a697-23c46b8344c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1kfTjk&quot;]/div[@class=&quot;_1rH5Jn&quot;]/div[@class=&quot;_2Xfa2_&quot;]/div[@class=&quot;_1cmsER&quot;]/form[@class=&quot;_2M8cLY header-form-search&quot;]/ul[@class=&quot;col-12-12 _1MRYA1 _38UFBk&quot;]/li[@class=&quot;Y5N33s&quot;]/div[1]/a[@class=&quot;_3izBDY&quot;]/div[@class=&quot;lrtEPN _17d0yO&quot;]</value>
+      <webElementGuid>0ebb0951-c3bb-4ee3-836c-47105caeefb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div[2]/div[2]/form/ul/li[3]/div/a/div[2]</value>
+      <webElementGuid>5bd2b723-1de5-42df-891d-071ccd3352e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='in Backpack Handbags'])[1]/following::div[4]</value>
+      <webElementGuid>73faeb30-c548-4661-89ae-731fd85342b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bags'])[2]/following::div[5]</value>
+      <webElementGuid>37fc493d-f8ee-4c45-a204-703c26c10c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='men']/parent::*</value>
+      <webElementGuid>9aebf3b1-50b1-43ed-a887-529b15a87f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a/div[2]</value>
+      <webElementGuid>f6fdfbcd-3556-435d-9926-b4f5b41c4135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'bags menin Laptop Bags' or . = 'bags menin Laptop Bags')]</value>
+      <webElementGuid>7255b774-451c-44e0-9a1c-be55659f8e8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

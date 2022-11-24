@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_30 3175</name>
+   <tag></tag>
+   <elementGuidId>5981e5f9-e55e-4752-a5ae-fc0376b4e259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div[2]/div/div[2]/form/div/div[3]/div/div[2]/div/div/div/div/table/tbody/tr[5]/td[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>138d127c-12fa-45f9-a366-cb31f9cbe1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jkj0H4</value>
+      <webElementGuid>808ae8ca-c425-4466-8b7a-de971966ca75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30₹ 3175</value>
+      <webElementGuid>105d93af-7226-4c3d-8d26-c60f84cbbe61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_2I_P4n _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_3-tSyS _36bm8T&quot;]/div[@class=&quot;_3XCEEm&quot;]/div[@class=&quot;_1dTDqB&quot;]/div[@class=&quot;_2ffI1H&quot;]/form[@class=&quot;_1DLh40&quot;]/div[@class=&quot;_2NKqZI&quot;]/div[@class=&quot;_1SzMWX _1Bv2QP&quot;]/div[@class=&quot;_1psGvi _2DkHXl&quot;]/div[@class=&quot;ZEl_b_ CeQnEq _2ogGYG _23xUYh _3pAV4E&quot;]/div[@class=&quot;_3_Fivj&quot;]/div[@class=&quot;aK6Zt5&quot;]/div[1]/div[@class=&quot;PgmDJX&quot;]/table[@class=&quot;aSgzfL&quot;]/tbody[1]/tr[5]/td[4]/div[1]/button[@class=&quot;jkj0H4&quot;]</value>
+      <webElementGuid>56b70c7a-94fa-4bdb-8e5f-a08a80f25d53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div[2]/div/div[2]/form/div/div[3]/div/div[2]/div/div/div/div/table/tbody/tr[5]/td[4]/div/button</value>
+      <webElementGuid>85d505ce-9fe0-4eed-86f3-3f4a85e2c93b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹ 2999'])[1]/following::button[1]</value>
+      <webElementGuid>ef46bbe2-9053-4a48-bf69-e1489e5bbd25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹ 4195'])[2]/following::button[2]</value>
+      <webElementGuid>56b81337-770f-4a27-8c36-e7a1c6236415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='December 2022'])[1]/preceding::button[1]</value>
+      <webElementGuid>596e0937-5a78-42d1-9eca-7ab39dc46b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='30']/parent::*</value>
+      <webElementGuid>0b71e064-1543-4ef0-bc74-a92cef112909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[4]/div/button</value>
+      <webElementGuid>c711cceb-c867-49e8-be79-444fc9cc3950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '30₹ 3175' or . = '30₹ 3175')]</value>
+      <webElementGuid>0893f218-efb4-447e-9ab4-c3b694f38b13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

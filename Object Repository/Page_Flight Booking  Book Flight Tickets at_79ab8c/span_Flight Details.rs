@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Flight Details</name>
+   <tag></tag>
+   <elementGuidId>0a02f2c4-da6b-49b2-90bd-8d2294183e17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div[2]/div[2]/div[3]/div/div/div[3]/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.KO_IQZ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75189012-4c50-4e74-b622-1706e3ae3265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>KO_IQZ</value>
+      <webElementGuid>b54e2a1f-bf47-4006-8573-68999564baed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Flight Details</value>
+      <webElementGuid>38d0b269-c7b2-456a-815b-57564f269ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;pvZuwo _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-12-12&quot;]/div[@class=&quot;_1YokD2 _2GoDe3 col-12-12&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-9-12&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12-12&quot;]/div[@class=&quot;_2GJTkY&quot;]/div[@class=&quot;_3KipEK&quot;]/div[@class=&quot;WwPZ25&quot;]/span[@class=&quot;KO_IQZ&quot;]</value>
+      <webElementGuid>9e398d59-ec8d-4a44-99f8-0553b15803aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div[2]/div[2]/div[3]/div/div/div[3]/div/div[2]/div/span</value>
+      <webElementGuid>3825f771-1c79-4672-ac95-e3bcc0576661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book'])[1]/following::span[1]</value>
+      <webElementGuid>3a791e72-8e84-4715-966f-66feb8fd143a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹3,175'])[2]/following::span[1]</value>
+      <webElementGuid>fba4538e-313e-4c8e-9b75-8a05be975818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get ₹381 off with FLYNOV'])[1]/preceding::span[1]</value>
+      <webElementGuid>671afed7-8ff9-47e2-8454-7bfcf1650eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO FIRST'])[2]/preceding::span[2]</value>
+      <webElementGuid>0b4ba4d2-fe33-4d21-841d-0086765581d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flight Details']/parent::*</value>
+      <webElementGuid>0dcf6eb4-7431-4ad7-acbe-776740cc7502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/span</value>
+      <webElementGuid>0b64800f-6973-49bc-afc4-da346b5ab6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Flight Details' or . = ' Flight Details')]</value>
+      <webElementGuid>9d725cb3-7460-4f4c-9238-9128bab2a3f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

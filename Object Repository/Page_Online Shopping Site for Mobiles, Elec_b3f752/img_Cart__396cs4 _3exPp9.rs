@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Cart__396cs4 _3exPp9</name>
+   <tag></tag>
+   <elementGuidId>c920a607-9f97-4bcb-93f2-70ce2195b5cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div/a/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img._396cs4._3exPp9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c59cadd9-0c11-43b8-96bb-c1abdd20193a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_396cs4 _3exPp9</value>
+      <webElementGuid>280e1930-e112-4b5b-92d0-b21994619db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Top Offers</value>
+      <webElementGuid>0f30db93-bcd5-4046-835d-cc77b1fcd68f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100</value>
+      <webElementGuid>115b40b1-6793-4d65-b4a1-5c52cb663d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_331-kn _2tvxW&quot;]/div[@class=&quot;InyRMC _3Il5oO&quot;]/div[@class=&quot;_37M3Pb&quot;]/div[@class=&quot;eFQ30H&quot;]/a[1]/div[@class=&quot;_1mkliO&quot;]/div[@class=&quot;CXW8mj&quot;]/img[@class=&quot;_396cs4 _3exPp9&quot;]</value>
+      <webElementGuid>ad670d94-a208-4b94-adb0-e3d305b10c40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div/a/div/div/img</value>
+      <webElementGuid>a291653b-33eb-4e76-87cf-295131c654c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Top Offers']</value>
+      <webElementGuid>3e56016a-8648-453e-82ce-180fa91533d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>1acbf8b9-c1e3-4d60-97c8-ab088db9877a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Top Offers' and @src = 'https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100']</value>
+      <webElementGuid>8c1726fa-d7db-46a1-8a35-a18cc8d00723</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

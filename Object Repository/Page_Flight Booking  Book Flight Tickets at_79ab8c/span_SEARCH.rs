@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SEARCH</name>
+   <tag></tag>
+   <elementGuidId>04ebe5d3-57a6-44e4-894b-607735c9f381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div[2]/div/div[2]/form/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._2KpZ6l._1QYQF8._3dESVI > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>649368ba-fd13-4ec0-941b-73ad4f09c4c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SEARCH</value>
+      <webElementGuid>e845fdfe-9746-47fe-ac45-0831cff86cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_2I_P4n _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_3-tSyS _36bm8T&quot;]/div[@class=&quot;_3XCEEm&quot;]/div[@class=&quot;_1dTDqB&quot;]/div[@class=&quot;_2ffI1H&quot;]/form[@class=&quot;_1DLh40&quot;]/div[@class=&quot;_2NKqZI&quot;]/button[@class=&quot;_2KpZ6l _1QYQF8 _3dESVI&quot;]/span[1]</value>
+      <webElementGuid>88713246-ffd5-4403-b71a-a96816cabaa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div[2]/div/div[2]/form/div/button/span</value>
+      <webElementGuid>6f622775-32e5-4eb9-a901-b37e3cbfe3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travellers | Class'])[1]/following::span[1]</value>
+      <webElementGuid>328eb92c-5bfd-4b17-9904-986fd909e13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/following::span[1]</value>
+      <webElementGuid>77e24da8-14b6-4de7-a517-41a1f38dcb3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT'])[1]/preceding::span[1]</value>
+      <webElementGuid>ec5e982e-eaf2-488a-ad47-1d0c18ec0fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::span[1]</value>
+      <webElementGuid>5fea8578-d724-41c5-936c-8c7a06ce9a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SEARCH']/parent::*</value>
+      <webElementGuid>c803c578-defb-43c2-9e9e-01610e57a8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>af26a3a4-6fb1-4eb6-9c0a-429fefd27135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SEARCH' or . = 'SEARCH')]</value>
+      <webElementGuid>4295d432-7f2c-4589-b696-422cdf8e786f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IndiGo6E-5284  00151h 45mNon stop  0200_7dc9d5</name>
+   <tag></tag>
+   <elementGuidId>fd631c6d-6292-4c3f-8109-05dd8e9c3dee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div[2]/div[2]/div[3]/div/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._3xFhY1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba5302a1-cd54-404c-aa5b-8af95b0c7971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3xFhY1</value>
+      <webElementGuid>1d604885-fa91-4b5e-9eda-387b3edb72af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IndiGo6E-5284  00:151h 45mNon stop  02:00₹3,175Book</value>
+      <webElementGuid>04f73882-06dd-4e7e-abf3-c246abdfc63f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;pvZuwo _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-12-12&quot;]/div[@class=&quot;_1YokD2 _2GoDe3 col-12-12&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-9-12&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12-12&quot;]/div[@class=&quot;_2GJTkY&quot;]/div[@class=&quot;_3xFhY1&quot;]</value>
+      <webElementGuid>8c17e954-d3a2-4b49-bdc4-917040b5515a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div[2]/div[2]/div[3]/div/div/div[3]/div/div</value>
+      <webElementGuid>3b8f93bc-136d-47ed-9d95-0c9b04287551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRICE'])[1]/following::div[3]</value>
+      <webElementGuid>e052b6ea-4288-42b9-94eb-eba6ac11c1ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARRIVAL'])[1]/following::div[6]</value>
+      <webElementGuid>8ff24f12-8658-4362-afc3-71e9ecb3b1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div/div</value>
+      <webElementGuid>a96022c9-46db-4223-8b3a-df5221338e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IndiGo6E-5284  00:151h 45mNon stop  02:00₹3,175Book' or . = 'IndiGo6E-5284  00:151h 45mNon stop  02:00₹3,175Book')]</value>
+      <webElementGuid>d7cff959-dc3f-4e47-8be8-17b42e34cb17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
